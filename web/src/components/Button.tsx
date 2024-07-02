@@ -26,7 +26,7 @@ export function Button({ isLoading, type }: ButtonProps) {
         </>
       ) : (
         <>
-          Baixar <FileArrowDown size={28} color="#ffffff" weight="bold" />
+          Kenyot bang.. <FileArrowDown size={28} color="#ffffff" weight="bold" />
         </>
       )}
     </button>
